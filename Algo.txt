@@ -1,5 +1,8 @@
-//decide pizza place
-//decide kind of pizza
-//call pizza place 
-//order pizza 
-//
+decide pizza place
+decide kind of pizza
+call pizza place 
+order pizza 
+    IF we get wrong order
+        we cry and cry and cry
+    IF we get right order
+        we squee and tip handsomely
